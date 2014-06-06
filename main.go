@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"os"
 	"github.com/kubmo/locus/config"
 	"github.com/kubmo/locus/twilio"
+	"os"
 )
 
 func main() {

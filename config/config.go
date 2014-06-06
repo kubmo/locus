@@ -6,7 +6,7 @@ import (
 )
 
 type Config struct {
-	ApiKey string `json:"apiKey"`
+	ApiKey    string `json:"apiKey"`
 	ApiSecret string `json:"apiSecret"`
 }
 
